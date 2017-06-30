@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 490 200" enable-background="new 0 0 490 200" xml:space="preserve">
+<rect x="0.2" y="78.9" fill="#00A651" stroke="#000000" stroke-miterlimit="10" width="43.9" height="82.7"/>
+<rect x="44.2" y="120.2" fill="#1C75BC" stroke="#000000" stroke-miterlimit="10" width="288.1" height="39.9"/>
+<text transform="matrix(1 0 0 1 132.5215 143.7358)" font-family="'MyriadPro-Regular'" font-size="12">Arduino Base Libraries</text>
+<rect x="0.2" y="160.1" fill="#808285" stroke="#000000" stroke-miterlimit="10" width="332" height="39.9"/>
+<text transform="matrix(1 0 0 1 137.9433 182.1182)" font-family="'MyriadPro-Regular'" font-size="12">ATMEGA328</text>
+<rect x="44.2" y="80.5" fill="#00AEEF" stroke="#000000" stroke-miterlimit="10" width="93.1" height="39.7"/>
+<text transform="matrix(1 0 0 1 61.8088 104.3667)" font-family="'MyriadPro-Regular'" font-size="12">QTR Library</text>
+<rect x="209.2" y="80.5" fill="#00AEEF" stroke="#000000" stroke-miterlimit="10" width="123" height="39.7"/>
+<text transform="matrix(1 0 0 1 239.867 103.3657)" font-family="'MyriadPro-Regular'" font-size="12">RF24 Library</text>
+<rect x="135.6" y="80.5" fill="#00A651" stroke="#000000" stroke-miterlimit="10" width="73.4" height="39.8"/>
+<text transform="matrix(1 0 0 1 162.0521 104.3665)" font-family="'MyriadPro-Regular'" font-size="12">HAL</text>
+<text transform="matrix(1 0 0 1 13.5254 123.8721)" font-family="'MyriadPro-Regular'" font-size="12">PID</text>
+<rect x="173" y="40.6" fill="#8DC63F" stroke="#000000" stroke-miterlimit="10" width="159.2" height="39.9"/>
+<rect x="0.2" y="40.6" fill="#8DC63F" stroke="#000000" stroke-miterlimit="10" width="173.1" height="39.9"/>
+<text transform="matrix(1 0 0 1 229.9585 63.3239)" font-family="'MyriadPro-Regular'" font-size="12">Reciever</text>
+<text transform="matrix(1 0 0 1 59.4554 63.3239)" font-family="'MyriadPro-Regular'" font-size="12">LineFollow</text>
+<rect x="0.2" y="0.3" fill="#D7DF23" stroke="#000000" stroke-miterlimit="10" width="332.1" height="40.3"/>
+<text transform="matrix(1 0 0 1 88.3085 24.9154)" font-family="'MyriadPro-Regular'" font-size="12">Integrated Autonomous Vehicle</text>
+<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M293.9,41"/>
+<rect x="345.8" y="0.2" fill="#D7DF23" stroke="#000000" stroke-miterlimit="10" width="143.8" height="40.4"/>
+<text transform="matrix(1 0 0 1 349.8334 23.9144)" font-family="'MyriadPro-Regular'" font-size="12">Top Level Product Specifics</text>
+<rect x="345.8" y="40.6" fill="#8DC63F" stroke="#000000" stroke-miterlimit="10" width="143.9" height="39.9"/>
+<text transform="matrix(0.9932 0 0 1 385.0194 63.5531)" font-family="'MyriadPro-Regular'" font-size="12">Components</text>
+<rect x="345.8" y="80.5" fill="#00A651" stroke="#000000" stroke-miterlimit="10" width="84.6" height="39.8"/>
+<text transform="matrix(0.9932 0 0 1 349.7925 104.21)" font-family="'MyriadPro-Regular'" font-size="8">Low-Level Component</text>
+<rect x="345.8" y="120.2" fill="#1C75BC" stroke="#000000" stroke-miterlimit="10" width="144" height="39.9"/>
+<text transform="matrix(1 0 0 1 362.6801 144.0563)" font-family="'MyriadPro-Regular'" font-size="12">Arduino Base Libraries</text>
+<rect x="345.8" y="160.1" fill="#808285" stroke="#000000" stroke-miterlimit="10" width="144" height="39.9"/>
+<text transform="matrix(1 0 0 1 394.9281 184.2101)" font-family="'MyriadPro-Regular'" font-size="12">Hardware</text>
+<rect x="429.7" y="80.5" fill="#00AEEF" stroke="#000000" stroke-miterlimit="10" width="59.8" height="39.7"/>
+<text transform="matrix(0.9932 0 0 1 442.3368 104.21)" font-family="'MyriadPro-Regular'" font-size="12">Library</text>
+</svg>

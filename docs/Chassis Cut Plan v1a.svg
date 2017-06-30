@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 612 1008" enable-background="new 0 0 612 1008" xml:space="preserve">
+<rect x="132.9" y="168.6" fill="none" stroke="#000000" stroke-miterlimit="10" width="18" height="21.6"/>
+<rect x="132.9" y="23.2" fill="none" stroke="#000000" stroke-miterlimit="10" width="18" height="21.6"/>
+<rect x="536.3" y="157.3" fill="none" stroke="#000000" stroke-miterlimit="10" width="18" height="21.6"/>
+<rect x="536.3" y="103.3" fill="none" stroke="#000000" stroke-miterlimit="10" width="18" height="21.6"/>
+<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="388" cy="631.4" r="5.5"/>
+<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="228.4" cy="631.4" r="5.5"/>
+<g>
+	<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M450,489.6V339.1h108v-252c0-39.6-32.4-72-72-72H126
+		c-39.6,0-72,32.4-72,72v252h108v150.5h9v36h-9v29.5H54v36c0,39.6,32.4,72,72,72h94.2V623h176.1v40.1H486c39.6,0,72-32.4,72-72v-36
+		H450v-29.5h-9v-36H450z M218.8,525.6h-9v-36h9V525.6z M403.7,525.6h-9v-36h9V525.6z"/>
+	<rect x="394.7" y="489.6" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" width="9" height="36"/>
+	<rect x="209.8" y="489.6" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" width="9" height="36"/>
+	<rect x="220.2" y="663.1" fill="none" stroke="#000000" stroke-miterlimit="10" width="176.1" height="0.2"/>
+	<rect x="220.2" y="623" fill="none" stroke="#000000" stroke-miterlimit="10" width="176.1" height="40.1"/>
+</g>
+<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="259.9" cy="85.3" r="9"/>
+<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="350.8" cy="85.3" r="9"/>
+<rect x="54" y="375.6" fill="none" stroke="#000000" stroke-miterlimit="10" width="72" height="72"/>
+<text transform="matrix(1 0 0 1 57.7451 460.0508)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="12">1” x 1” square</tspan><tspan x="0" y="14.4" font-family="'MyriadPro-Regular'" font-size="12">for scale</tspan></text>
+</svg>
