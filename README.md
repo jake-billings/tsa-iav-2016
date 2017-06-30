@@ -65,6 +65,7 @@ The second version of the IAV chassis solves all of the above problems with the 
 ![Chasis](docs/Chassis%20v1.png)
 
 Wheel bays are cut from the left and right of the vehicle. A front section is cut to allow for the line following sensor to be installed. Mounts for the motors and wheels are cut as small rectangles near the wheel bays. The top contains circular screw holes for a ball bearing to serve as a rear wheel, and rectangles are cut to mount the payload retrieval subassembly. This early revision contains an error in the sensor mount that cuts the screw holes for the sensor mount out of the chassis.
+
 ![Chasis](docs/Chassis%20Cut%20Plan%20v1a.png)
 
 ### Practice Courses
