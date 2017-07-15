@@ -1,4 +1,7 @@
 # tsa-iav-2016
+
+[![DOI](https://zenodo.org/badge/95920281.svg)](https://zenodo.org/badge/latestdoi/95920281)
+
 This repository contains the work completed for the Technology Student Association (TSA) Integrated Autonomous Vehicle (IAV) competition for my team in 2016. The competition consisted of having a robot complete a course. Points were awarded for speed and completion of additional challenges. Points were subtracted for cost.
 ## Hardware
 The software relies on custom hardware developed using the Arduino Uno platform and standalone ATmega328. See the docs folder for custom hardware designs and the `/docs` folder. Electrical designs are in the `/hardware` folder.
