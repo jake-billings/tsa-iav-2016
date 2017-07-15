@@ -4,7 +4,7 @@
 
 This repository contains the work completed for the Technology Student Association (TSA) Integrated Autonomous Vehicle (IAV) competition for my team in 2016. The competition consisted of having a robot complete a course. Points were awarded for speed and completion of additional challenges. Points were subtracted for cost.
 
-##Using my Work##
+## Using my Work ##
 Given that IAV is still an active competition, I figured it would be a good idea to add a guide here for using my work. I have an MIT license on this repository, so that means you're free to use it as long as you include that license and link back to me. That being said, if you are an IAV competitor, please make sure you abide by all TSA guidelines when working on your project. That means you can't use any of my designs or code for competition. Although, it's probably fine if you use them as a guide.
 
 If this repository helped you, please cite it using my name, a link, and the DOI number from the top of this page. Also, feel free to send me an email letting me know it helped. [jake@jakebillings.com](mailto:jake@jakebillings.com).
